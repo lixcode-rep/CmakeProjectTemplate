@@ -1,2 +1,3 @@
-build*
-CMakeLists.txt.user
+[Bb]uild*/
+CmakeLists.txt.u*
+.autosave*
